@@ -280,7 +280,7 @@ nav {
   width: 200px;
   height: 200px;
   object-fit: contain;
-  filter: invert(1);
+  filter:;
 }
 
 /* ─── WAVE DIVIDER ─── */
